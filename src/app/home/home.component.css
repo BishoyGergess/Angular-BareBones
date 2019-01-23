@@ -1,0 +1,15 @@
+.copyright{
+    background-color: #3C91E6;
+    color: #FAFFFD;
+    border: 10px solid #3C91E6;
+}
+.cont{
+    background:#FAFFFD;
+    color: #9FD356;
+    height: -webkit-fill-available;
+}
+a{
+    color: #FAFFFD;
+    font-size: 20px
+    
+}
